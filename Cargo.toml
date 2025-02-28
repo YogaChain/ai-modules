@@ -15,3 +15,6 @@ serde_json = "1.0"
 
 # Blockchain Integration
 yogachain-core = { path = "../core" }
+
+# Shared Common Dependencies
+yogachain-common = { path = "../yogachain-common" }
